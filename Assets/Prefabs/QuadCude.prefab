@@ -73,6 +73,7 @@ GameObject:
   m_Component:
   - component: {fileID: 4848434501038440}
   - component: {fileID: 114224436000120302}
+  - component: {fileID: 114061900278513580}
   m_Layer: 0
   m_Name: QuadCude
   m_TagString: Untagged
@@ -655,6 +656,17 @@ TextMesh:
   m_Color:
     serializedVersion: 2
     rgba: 4278190080
+--- !u!114 &114061900278513580
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1205751154295840}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7ad0f65916c054443872c6ab2681b6f5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!114 &114224436000120302
 MonoBehaviour:
   m_ObjectHideFlags: 1
